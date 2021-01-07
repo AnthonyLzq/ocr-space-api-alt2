@@ -1,7 +1,7 @@
 const ocrSpaceApi = require('../lib/ocrSpaceApi')
 
 const options =  { 
-  apikey  : '<YOUR API KEY HERE>',
+  apiKey  : '<YOUR API KEY HERE>',
   filetype: 'jpg',
   verbose : false
 }

@@ -1,10 +1,14 @@
 # ocr-space-api2
 
+## Version 1.1.0
+- Implemented:
+  - Some code refactoring.
 ## Version 1.0.1
 - Fixed:
   - `changelog.md`
 - Updated:
   - Dependencies.
+
 ## Version 1.0.0c
 
 - Fixed:
